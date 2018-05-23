@@ -1,3 +1,3 @@
-# hackerrank
+# Python exercises
 
-This folder contains exercises from HackerRank.
+This folder contains exercises from different sources including Hackerrank.
