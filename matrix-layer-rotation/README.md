@@ -2,7 +2,7 @@ You are given a 2D matrix of dimension  and a positive integer . You have to rot
 
 Rotation of a  matrix is represented by the following figure. Note that in one rotation, you have to shift elements by one step only.
 
-matrix-rotation
+![](matrix-rotation.png)
 
 It is guaranteed that the minimum of m and n will be even.
 
