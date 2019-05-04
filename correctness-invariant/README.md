@@ -24,6 +24,7 @@ Maintenance - Each iteration of the loop expands the subarray, but keeps the sor
 Termination - The code will terminate after  has reached the last element in the array, which means the sorted subarray has expanded to encompass the entire array. The array is now fully sorted.
 
 Loop Invariant Chart
+![](InsertionSortCorrect-small.png)
 
 You can often use a similar process to demonstrate the correctness of many algorithms. You can see these notes for more information.
 
